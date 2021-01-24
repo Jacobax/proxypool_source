@@ -191,6 +191,9 @@
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
+- type: webfuzz
+  options:
+    url: https://github.com/pojiezhiyuanjun/freev2
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
