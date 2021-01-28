@@ -163,6 +163,10 @@
   options:
     channel: freeVPNserv
     num: 200
+- type: tgchannel
+  options:
+    channel: proxypoolss
+    num: 200
 
 # 网站抓取
 - type: web-freessrxyz
